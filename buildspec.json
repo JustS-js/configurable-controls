@@ -33,13 +33,13 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.plugintemplate-for-obs"
+            "bundleId": "net.just-s.configurable-controls-for-obs"
         }
     },
-    "name": "plugintemplate-for-obs",
-    "displayName": "Plugin Template for OBS",
+    "name": "configurable-controls-for-obs",
+    "displayName": "Configurable Controls for OBS",
     "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com"
+    "author": "Just_S",
+    "website": "https://github.com/JustS-js/configurable-controls",
+    "email": "JustS.js@yandex.ru"
 }
